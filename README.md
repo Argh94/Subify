@@ -57,11 +57,12 @@ Subify تنها یک مبدل نیست!
 
 ## 🖼️ اسکرین‌شات‌ها
 
-<div align="center">
-  <img src="screenshots/dark-theme.png" width="45%" alt="Dark Theme" />
-  <img src="screenshots/light-theme.png" width="45%" alt="Light Theme" />
-  <img src="screenshots/success.png" width="45%" alt="Success Message" />
-</div>
+## 📸 Screenshots
+
+| Dark Theme | Light Theme |
+|------------|-------------|
+| ![Dark Theme](screenshots/dark-theme.jpg) | ![Light Theme](screenshots/light-theme.jpg) |
+
 
 > برای مشاهده اسکرین‌شات‌های بیشتر، تصاویر پروژه را در پوشه `/screenshots` آپلود کنید.
 
